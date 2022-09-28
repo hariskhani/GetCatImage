@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.container{
+    width: 60%;
+    margin: 70px auto;
+    text-align: center;
+    background-color: aliceblue; 
+    padding: 13px;   
+    border-radius: 10px;
+}
+h3{
+    margin: 10px;
+    font-size: 36px;
+}
+p{
+    font-size: 19px;
+    padding: 10px;
+}
+button{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 40%;
+    height: auto;
+}
